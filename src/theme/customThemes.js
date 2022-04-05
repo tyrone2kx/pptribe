@@ -1,0 +1,46 @@
+export const lightColors = {
+    primaryBackground: '#f0f0f0',
+    primaryTextColor: '#444',
+    primaryHeaderColor: '#FFF',
+    primaryBorderColor: '#DEDEDE',
+    primaryContainerColor: '#FFFFFF',
+    primaryLineColor: 'rgba(102, 102, 102, 0.164)',
+    secondaryTextColor: '#666',
+    secondaryTextColor2: '#999',
+    secondaryContainerColor: '#f2f2f2',
+    primaryHoverColor: '#f1f1f1',
+    primaryContainerHoverColor: '#f1f1f1',
+    primaryOverlayColor: 'rgba(255,255,255,0.9)',
+    primaryOverlayHoverColor: 'rgba(255,255,255,0.9)',
+    shadowColor: '#000',
+    green: '#45bd62',
+    orange: '#ff9600',
+    pink: '#f04e3c',
+    purple: '#F8067B',
+    red: '#900001',
+    blue: '#0775fd'
+}
+
+
+export const darkColors = {
+    primaryBackground: '#18191a',
+    primaryContainerColor: '#242526',
+    primaryTextColor: '#FAFAFA',
+    primaryHeaderColor: '#111111',
+    primaryBorderColor: '#333',
+    primaryLineColor: '#ffffff11',
+    secondaryTextColor: '#b0b3b8',
+    secondaryTextColor2: '#fafafa6b',
+    secondaryContainerColor: '#333',
+    primaryHoverColor:'#3a3b3c',
+    primaryContainerHoverColor: '#3a3b3c',
+    primaryOverlayColor: 'rgba(0, 0, 0, 0.8)',
+    primaryOverlayHoverColor: 'rgba(0,0,0,0.9)',
+    shadowColor: '#000',
+    green: '#45bd62',
+    orange: '#ff9600',
+    pink: '#f04e3c',
+    purple: '#F8067B',
+    red: '#900001',
+    blue: '#0775fd'
+}
